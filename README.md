@@ -1,1 +1,3 @@
-# Campus_energy_25ME1A4269
+# Smart Campus Energy Project
+This repository contains my week 1 hands-on Python and pandas assigments.
+Created by: [Sanjay Ram]
